@@ -1,4 +1,4 @@
-# Emotion Detection Web App
+# EmoSense
 
 This project is a Flask web application that utilizes computer vision to detect emotions in a person's face. It provides two modes of operation: live webcam streaming and file upload mode. The frontend of the web app is built using Bootstrap, and the emotion classification model is implemented using Convolutional Neural Networks (CNNs). The CNN model is trained on the FER 2013 dataset, which consists of grayscale face images labeled with seven different emotions. The project leverages popular libraries such as NumPy, Matplotlib, TensorFlow, Keras, OpenCV, and Flask.
 
